@@ -1,0 +1,1 @@
+# Right-Censored-Survial-Data-Generator
